@@ -1,0 +1,20 @@
+# Ignore log files
+*.log
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore VSCode stuff
+.vscode
+
+#Ignore tarfiles
+*.tar
+*.tar.gz
+
+#Ignore msquickcmp
+msquickcmp_result
+
+#Ignore all json
+*.json
